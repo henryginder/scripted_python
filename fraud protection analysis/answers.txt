@@ -1,0 +1,27 @@
+Name: Henry Ginder
+CSE 160
+Homework 6
+
+Answer to Problem 7:
+
+Our null hypothesis is that the 2009 Iranian election was not fraudulent.
+However after writing these programs to test just how confident we can be in 
+said hypothesis, I can say we reject our null hypothesis at the p = 0.0385 level.
+The threshold for statistical significance is p = 0.05, and we are under that
+threshold. I ran the program several times and never got a p value below 0.0385,
+and I even saw one as low 0.035.
+
+Answer to Problem 8:
+
+Like the previous data set, we will assume going in that the 2008 US election
+was not fraudulent. Then we run the same tests as we did on the Iranian data set.
+This time we can say that we do not reject the null hypothesis, due to the fact
+that usually the p value is near 0.5, well above the threshold of p = 0.05. Therefore
+We say we reject the null hypothesis.
+
+Collaboration:
+None
+
+...
+
+
